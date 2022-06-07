@@ -128,3 +128,13 @@ nav .contenedor {
   outline: none;
   cursor: pointer;
 }
+/*FOOTER*/
+footer {
+  transform: translate(130px, -45px);
+  color: white;
+  width: 40rem;
+  height: 3rem;
+  font-size: 1.4rem;
+  display: inherit;
+  align-items: center;
+}
